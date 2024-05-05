@@ -19,7 +19,7 @@ Create a TSV file (can be done e. g. by copy-pasting from Google Sheets), where 
 
 Then run the script, providing the name of this file with names and URLs:
 ```bash
-./vimeo-autio-and-video.py -i names_urls.txt
+./vimeo-audio-and-video.py -i names_urls.txt
 ```
 
 ## Acknowledgements
